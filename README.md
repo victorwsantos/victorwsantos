@@ -1,7 +1,7 @@
 ### Olá eu sou o Victor Santos 👋
 
 - 🔭 Hoje trabalho como analista de suporte, realizando projetos particulares no ramo do Front-End;
-- 🌱 Estudando: HTML, CSS, React e JS 😁l;
+- 🌱 Estudando: HTML, CSS, React e JS 😁;
 - 📫 Contate-me no email: victorwsantos@icloud.com;
 
 
